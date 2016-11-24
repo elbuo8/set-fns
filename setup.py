@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='set-fns',
-    version='0.1.0',
+    version='0.1.1',
     packages=find_packages(),
     scripts=['set-fns'],
     author='Yamil Asusta (@elbuo8)',
