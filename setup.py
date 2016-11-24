@@ -11,5 +11,5 @@ setup(
     description='Quick set operations on files',
     keywords='union intersection difference set sets discrete math',
     url='https://github.com/elbuo8/set-fns',
-    long_description=open('./README.rst').read(),
+    long_description=open('./README.md').read(),
 )
